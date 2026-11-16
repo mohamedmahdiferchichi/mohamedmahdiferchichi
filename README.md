@@ -1,4 +1,5 @@
 ## Hi, I'm Mahdi
 
-This profile is still unfinished.
-Please check later.
+Infotronic systems engineering Student.
+Passionate about embedded systems and programming.
+
